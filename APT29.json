@@ -24,7 +24,7 @@
 	},
 	"sorting": 0,
 	"layout": {
-		"layout": "flat",
+		"layout": "side",
 		"showID": false,
 		"showName": true
 	},
